@@ -25,3 +25,7 @@ Github_id: rndastech
 Name: Atharv R Tingane
 Github_id: Athting
 
+Name: Aayush Goyal
+Github_id: semicolon18
+
+
