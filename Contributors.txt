@@ -10,5 +10,18 @@ Add your name in this file in the following format-
 
 An example is provided for your reference.
 
-  Name: Atharv Tingane
-  Github_id: Athting
+Name: Aashray Mahajan
+Github_id: aashray374
+
+Name: Swarup Narkhede
+Github_id: swarupn17
+
+Name: Kanav Agrawal
+Github_id: HGRgamer
+
+Name: Ritesh Narayan Das
+Github_id: rndastech
+
+Name: Atharv Tingane
+Github_id: Athting
+
