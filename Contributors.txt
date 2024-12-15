@@ -10,5 +10,5 @@ Add your name in this file in the following format-
 
 An example is provided for your reference.
 
-Name: Aashray Mahajan
-Github_id: aashray374
+Name: Atharv Tingane
+Github_id: Athting
