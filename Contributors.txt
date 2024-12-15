@@ -1,14 +1,7 @@
-Hello Contributors!!!
 
-This file contains the list of all the Participants who
-participated in contributing to WordOut
 
-Add your name in this file in the following format-
 
-  Name: Participant Name
-  Github_id: GitHub User ID
 
-An example is provided for your reference.
+  Name: Gopi kumar jha
+  Github_id:gopijha01
 
-Name: Aashray Mahajan
-Github_id: aashray374
