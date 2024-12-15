@@ -22,3 +22,6 @@ Github_id: HGRgamer
 Name: Ritesh Narayan Das
 Github_id: rndastech
 
+Name: Aayush Goyal
+Github_id: semicolon18
+
