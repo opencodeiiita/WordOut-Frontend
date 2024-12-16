@@ -13,6 +13,9 @@ An example is provided for your reference.
 Name: Aashray Mahajan
 Github_id: aashray374
 
+Name: Ayush Patel
+Github_id: ayush-patel1
+
 Name: Swarup Narkhede
 Github_id: swarupn17
 
@@ -34,5 +37,94 @@ Github_id: official-ashu-tosh
 Name: Deepanshu
 Github_id: spotnewmoon
 
+
 Name: Sahil Gupta
 Github_id: sahilgupta2006
+
+
+Name: Snehal Gupta
+Github_id: Snehalgupta-07
+
+
+Name: Saurabh Dubey
+Github_id: apexcoder007
+
+Name: Asim Kalim
+Github_id: kalim-Asim
+
+
+Name: Sarvesh Kumar
+Github_id: Sarvesh0955
+
+Name: Priyam Chakrabarty
+Github_id: PriyamJChakrabarty
+
+
+Name: Harsh Krishnan
+Github_id: iking07
+
+Name: Rachit Kansal
+Github_id: rachitkansal05
+
+Name: Ishita Agrawal
+Github_id: Ishu0112
+
+Name: Kartik Sharma
+Github_id: kartiksharma1227
+
+Name: Ashish Saraswat
+Github_id: Asheeesh9
+
+
+Name: Nitya Bhavsar
+Github_id: NityaB25
+
+
+Name: Lokesh Bethala
+Github_id: Lokesh11868
+
+Name: Shwet Kumar 
+Github_id: Oopshwet
+
+Name: Ayushi Songara
+Github_id: aashi-336
+
+
+Name: Abdul Azeem Ansari
+Github_id: 23abdul23
+
+Name: Adith N Reganti
+Github_id: adith-nr
+
+Name:Gopi kumar jha
+Github_id:gopijha021
+
+Name: Dhruv Goyal
+Github_id: dhruvgoyal-098
+
+Name: Hemant
+Github_id: bcde123
+
+
+Name: Aditya Aggarwal
+Github_id: adityaagg4689
+
+
+Name: Vardaan
+GIthub_id: Vardaan-02
+
+
+Name: Krishna Mohan
+Github_id: krishnamohan2006
+
+
+Name: Rajdeep Paul
+Github_id: rajdeep13-coder
+
+Name: Debmallya Bhandari
+Github_id: Debmallya-03
+
+Name: Puravi Mohta
+Github_id: puravimohta15
+
+
