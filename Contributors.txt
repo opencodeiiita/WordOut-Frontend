@@ -55,5 +55,33 @@ Github_id: Sarvesh0955
 Name: Priyam Chakrabarty
 Github_id: PriyamJChakrabarty
 
+
 Name: Harsh Krishnan
 Github_id: iking07
+
+Name: Rachit Kansal
+Github_id: rachitkansal05
+
+Name: Ishita Agrawal
+Github_id: Ishu0112
+
+Name: Kartik Sharma
+Github_id: kartiksharma1227
+
+Name: Ashish Saraswat
+Github_id: Asheeesh9
+
+
+Name: Nitya Bhavsar
+Github_id: NityaB25
+
+
+Name: Lokesh Bethala
+Github_id: Lokesh11868
+
+Name: Shwet Kumar 
+Github_id: Oopshwet
+
+Name: Ayushi Songara
+Github_id: aashi-336
+
