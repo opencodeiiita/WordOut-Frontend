@@ -13,6 +13,9 @@ An example is provided for your reference.
 Name: Aashray Mahajan
 Github_id: aashray374
 
+Name: Ayush Patel
+Github_id: ayush-patel1
+
 Name: Swarup Narkhede
 Github_id: swarupn17
 
