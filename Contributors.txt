@@ -55,6 +55,10 @@ Github_id: Sarvesh0955
 Name: Priyam Chakrabarty
 Github_id: PriyamJChakrabarty
 
+
+Name: Harsh Krishnan
+Github_id: iking07
+
 Name: Rachit Kansal
 Github_id: rachitkansal05
 
@@ -81,6 +85,42 @@ Github_id: Oopshwet
 Name: Ayushi Songara
 Github_id: aashi-336
 
+
 Name: Abdul Azeem Ansari
 Github_id: 23abdul23
+
+Name: Adith N Reganti
+Github_id: adith-nr
+
+Name:Gopi kumar jha
+Github_id:gopijha021
+
+Name: Dhruv Goyal
+Github_id: dhruvgoyal-098
+
+Name: Hemant
+Github_id: bcde123
+
+
+Name: Aditya Aggarwal
+Github_id: adityaagg4689
+
+
+Name: Vardaan
+GIthub_id: Vardaan-02
+
+
+Name: Krishna Mohan
+Github_id: krishnamohan2006
+
+
+Name: Rajdeep Paul
+Github_id: rajdeep13-coder
+
+Name: Debmallya Bhandari
+Github_id: Debmallya-03
+
+Name: Puravi Mohta
+Github_id: puravimohta15
+
 
