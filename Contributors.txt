@@ -71,3 +71,6 @@ Github_id: Asheeesh9
 Name: Nitya Bhavsar
 Github_id: NityaB25
 
+Name: Soumya Arya
+Github_id: soumyaarya
+
