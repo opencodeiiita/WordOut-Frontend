@@ -55,6 +55,8 @@ Github_id: Sarvesh0955
 Name: Priyam Chakrabarty
 Github_id: PriyamJChakrabarty
 
+Name: Rachit Kansal
+Github_id: rachitkansal05
 
 Name: Ishita Agrawal
 Github_id: Ishu0112
@@ -64,4 +66,5 @@ Github_id: kartiksharma1227
 
 Name: Ashish Saraswat
 Github_id: Asheeesh9
+
 
