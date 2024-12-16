@@ -34,3 +34,6 @@ Github_id: official-ashu-tosh
 
 Name: Deepanshu
 Github_id: spotnewmoon
+
+Name: Snehal Gupta
+Github_id: Snehalgupta-07
