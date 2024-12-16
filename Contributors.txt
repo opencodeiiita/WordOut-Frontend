@@ -86,6 +86,9 @@ Name: Ayushi Songara
 Github_id: aashi-336
 
 
+Name: Dhruv Goyal
+Github_id: dhruvgoyal-098
+
 Name: Hemant
 Github_id: bcde123
 
@@ -110,4 +113,3 @@ Github_id: Debmallya-03
 
 Name: Puravi Mohta
 Github_id: puravimohta15
-
