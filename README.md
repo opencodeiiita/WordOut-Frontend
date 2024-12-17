@@ -2,6 +2,8 @@
 
 WordOut is a thrilling multiplayer game where 5 to 8 players are assigned words related to a shared topic—except for one, the Imposter, who has a different word. Players must describe their words in 1 minute, convincing others they're in on the same topic. After every round, the group votes to eliminate someone, trying to eleminate the Imposter. 
 
+## Backend Code 
+- [Link](https://github.com/opencodeiiita/WordOut-Backend)
 
 ## 🧷Getting Started
 
