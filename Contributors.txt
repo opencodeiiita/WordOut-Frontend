@@ -130,23 +130,5 @@ Github_id: puravimohta15
 Name: Samandeep Singh Sidhu
 Github_id: Darkknight0125
 
-
-Name: Apoorv Mittal
-Github_id: Apoorv012
-
-
-Name: Arjun Deshwal
-Github_id: ArjunDeshwal
-
-
-Name: Sharuka S
-Github_id: SHARUKA-2005
-
-
-Name: Pratham Prajapati
-Github_id: Navigam1108
-
-Name: Sai Chithra
-Github_id: SaiChithra333
-
-
+Name: Debankur Dutta
+Github_id: Debankur04
