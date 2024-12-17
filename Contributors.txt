@@ -140,5 +140,9 @@ Github_id: Atharwa23
 Name: Sankalp Joshi
 Github_id: sankalpj47
 
+Name: Manish Mote
+Github_id: Heisenberg503
+
 Name: Vinayak Maheshwari
 Github_id: 07CalC
+
