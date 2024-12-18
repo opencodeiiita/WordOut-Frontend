@@ -152,3 +152,6 @@ Github_id: 07CalC
 
 Name: Suvanwita Das
 Github_id: Suvanwita
+
+Name : Aashay Nema
+Githun_id: Naashya1420
