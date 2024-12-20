@@ -19,8 +19,8 @@ class MyApp extends StatelessWidget {
       theme: ThemeData.dark(), // Dark theme for the app
       initialRoute: '/login',
       routes: {
-        '/change_pwd': (context) => ChangePass(),
         '/recover': (context) => const RecoveryCode(),
+        '/change_pwd': (context) => ChangePass(),
         '/login': (context) => const LoginScreen(),
         '/signup': (context) => const SignupScreen(),
       },
