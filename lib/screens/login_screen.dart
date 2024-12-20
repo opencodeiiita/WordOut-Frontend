@@ -85,14 +85,9 @@ class LoginScreen extends StatelessWidget {
                   Row(
                     mainAxisAlignment: MainAxisAlignment.end,
                     children: [
-                      GestureDetector(
-                        onTap: () {
-                          Navigator.pushNamed(context, '/recover');
-                        },
-                        child: Text(
-                          "Forgot password?",
-                          style: TextStyle(color: Colors.white),
-                        ),
+                      Text(
+                        "Forgot password?",
+                        style: TextStyle(color: Colors.white),
                       ),
                     ],
                   ),
@@ -106,7 +101,7 @@ class LoginScreen extends StatelessWidget {
                         // Add sign-in functionality
                       },
                       style: ElevatedButton.styleFrom(
-                        backgroundColor: Color(0xFF3480FE),
+                         backgroundColor: Color(0xFF3480FE),
                         shape: RoundedRectangleBorder(
                           borderRadius: BorderRadius.circular(12),
                         ),
