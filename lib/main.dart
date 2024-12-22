@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:word_out/screens/change_pass.dart';
 import 'package:word_out/screens/recovery_code.dart';
+import 'package:word_out/screens/search_screen.dart';
 import 'screens/login_screen.dart';
 import 'screens/signup_screen.dart';
 
@@ -23,6 +24,7 @@ class MyApp extends StatelessWidget {
         '/change_pwd': (context) => ChangePass(),
         '/login': (context) => const LoginScreen(),
         '/signup': (context) => const SignupScreen(),
+        '/search': (context) => const SearchScreen(),
       },
     );
   }
