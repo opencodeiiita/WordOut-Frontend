@@ -8,6 +8,7 @@ import 'package:word_out/screens/home_page.dart';
 class SplashScreen extends StatelessWidget {
   const SplashScreen({super.key});
 
+  // logic for shared pref.
   // Widget _checkUser() {
   //   return FutureBuilder<SharedPreferences>(
   //       future: SharedPreferences.getInstance(),
@@ -48,7 +49,7 @@ class SplashScreen extends StatelessWidget {
       splashTransition: SplashTransition.fadeTransition,
       backgroundColor: const Color(0xFF0A0D16),
       pageTransitionType: PageTransitionType.rightToLeft,
-      nextScreen: const HomePage(),
+      nextScreen: const HomePage() //replace with _checkuser(),
     );
   }
 }
